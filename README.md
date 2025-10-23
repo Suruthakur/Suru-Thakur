@@ -31,10 +31,8 @@
 
 📊 GitHub Stats
 
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suruthakur91&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suruthakur91&layout=compact&theme=radical&hide_border=true)
-
-
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=suruthakur&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suruthakur&layout=compact&theme=radical&hide_border=true)
 
 📫 Connect With Me
 - 💼 [LinkedIn](#) *()*  
